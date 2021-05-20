@@ -21,7 +21,7 @@ gem 'settingslogic'
 gem 'devise'
 
 # Web server
-gem "puma", "~> 2.0.0.b7"
+gem "puma", "~> 4.3.8"
 
 # Haml
 gem 'haml-rails'
